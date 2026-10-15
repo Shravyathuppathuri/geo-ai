@@ -1,0 +1,6 @@
+{
+  "name": "GeoAI Road Safety System",
+  "description": "GeoAI-Based Road Hazard Prediction and Alert System with automatic real-time workflow, multi-hazard risk engine, and safer route recommendations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
